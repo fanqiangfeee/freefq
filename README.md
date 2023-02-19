@@ -8,8 +8,13 @@
 上次更新时间：2023.2.19
 
 订阅链接：
+v2ray：
 ```
 https://raw.fastgit.org/fanqiangfeee/freefq/main/v2ray
+```
+Clash：
+```
+https://raw.fastgit.org/fanqiangfeee/freefq/main/Clash
 ```
 
 节点：
