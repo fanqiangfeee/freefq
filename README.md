@@ -17,6 +17,7 @@ Clash：
 ```
 https://raw.fastgit.org/fanqiangfeee/freefq/main/Clash
 ```
+其他客户端可以使用[订阅链接转换](https://id9.cc/)
 
 节点：
 ```
