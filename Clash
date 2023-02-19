@@ -75,3 +75,6 @@ proxy-groups:
       - 🇭🇰 杭港BGP_39
       - 🇭🇰 江港联通_119
       - 🇭🇰 杭港BGP_39 2
+rules:
+      - MATCH,节点选择
+      - MATCH,自动选择
