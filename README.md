@@ -2,6 +2,8 @@
 每天更新翻墙节点，支持v2rayN v2rayNG Clash 小火箭等客户端
 
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan/VLESS/vmess/ssr节点
+晚高峰秒开4K8K，极致体验。
+节点均为手动收集，均为高质量优质节点
 
 上次更新时间：2023.2.19
 
@@ -42,5 +44,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:811#YouTube%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:805#YouTube%E6%A2%A6%E6%AD%8C%7C%E9%A6%99%E6%B8%AFIEPL_269
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:803#YouTube%E6%A2%A6%E6%AD%8C%7C%E6%9D%AD%E6%B8%AF%E9%9A%A7%E9%81%93%7CNetflix_158
 vmess://eyJhZGQiOiIxMDMuMjEuMjQ0LjE4MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiSU4tOTItOTkuc2hvcHR1bm5lbC5saXZlIiwiaWQiOiJhNmEzN2UwNC01ZTgxLTQ0YzktYmU1My1iYWEzZmY0NmViOGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvOGNkYTQ4YjMiLCJwb3J0IjoiODQ0MyIsInBzIjoiWW91VHViZeaipuatjHzmna3muK/pmqfpgZN8TmV0ZmxpeF85MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJJTi05Mi05OS5zaG9wdHVubmVsLmxpdmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess
 ```
