@@ -1,7 +1,7 @@
 allow-lan: true
 mode: Rule
 log-level: info
-proxies:
+Proxies:
   - {name: 江门移动_6, server: ingress-i2.iivvppnn.info, port: 38102, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: ingress-i2.iivvppnn.info}}}
   - {name: 🇭🇰 杭港隧道|Netflix_35, server: 20.210.192.230, port: 27692, type: vmess, uuid: 95bcf8c2-4b62-403f-afb3-bdbf171ddfcd, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 杭港隧道|Netflix_25, server: 20.205.5.230, port: 26082, type: vmess, uuid: 41244752-c7d0-408d-d947-d9da6b501649, alterId: 0, cipher: auto, tls: false}
