@@ -53,7 +53,7 @@ proxy-groups:
   - name: 自动选择
     type: url-test
     url: https://google.com
-    interval: 1000
+    interval: 250
     proxies: 
       - 江门移动_6
       - 🇭🇰 杭港隧道|Netflix_35
